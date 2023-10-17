@@ -29,7 +29,7 @@ const block = {
     url1: "https://img.icons8.com/material/24/6c757d/twitter--v2.png",
     url2: "https://img.icons8.com/material/24/6c757d/instagram-new--v1.png",
     url3: "https://img.icons8.com/material/24/6c757d/facebook-new.png",
-    url4: "https://img.icons8.com/material/24/6c757d/youtube-play--v1.png",
+    url4: "https://img.icons8.com/material/24/6c757d/linkedin--v1.png",
     alt1: "Twitter",
     alt2: "Instagram",
     alt3: "Facebook",
